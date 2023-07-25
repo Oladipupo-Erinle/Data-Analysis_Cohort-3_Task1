@@ -62,7 +62,10 @@ The dataset has been updated as follows:
 
 •	Cells with duplicated names are highlighted in a light red color.
 
-![](SHEET_2.png)
+First and lastnames seperated      |Duplicate Names Highlighted
+:.................................:|............................:
+
+![](SHEET_2.png)                     ![](SHEET_2A.png)
 
 These changes and formatting help organize the dataset better and visually highlight employees with duplicate names for easy identification and analysis.
 
