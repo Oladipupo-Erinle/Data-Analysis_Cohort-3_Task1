@@ -13,7 +13,7 @@ This is an Excel analysis of a dataset that I created. The dataset consists of 2
 The tasks involved are:
 1.	You’re to show only employees who are **_Freelancers_** and also highlight the employees whose salaries are above $10,000
 2.	You’re to split the employees’ full names into first names and last names. Also, Check for duplicates and highlight if any, and don’t delete
-3.	Highlight in yellow employees whose names begin with the letter ‘E’ Format the Salary column such that the highest **_Salary_** has a green background and the lowest SALARY has a red background
+3.	Highlight in yellow employees whose names begin with the letter **_E_** Format the Salary column such that the highest **_Salary_** has a green background and the lowest SALARY has a red background
    
 # Skill/Concepts Demonstrated
 1.	Data Management
