@@ -46,7 +46,7 @@ Conditional formatting allows us to dynamically change the appearance of cells b
 
 ![]{sheet2)
 
-#Applied Steps:
+# Applied Steps:
 
 The dataset has been updated as follows:
 
