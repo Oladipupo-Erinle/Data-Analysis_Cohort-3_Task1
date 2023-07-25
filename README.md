@@ -7,7 +7,7 @@ This is an Excel analysis of a dataset that I created. The dataset consists of 2
 4.	Salary - Ranging between $5000 to $25000
 5.	Job Types - Including Part-time, Freelance, and Contract positions
 
-.![](Image of raw data)
+.![](DATA_PAGE.png)
 
 ## Problem statement
 The tasks involved are:
@@ -25,10 +25,10 @@ The tasks involved are:
 ## Solutions To the Above Task
 
 # Task one: 
-show only employees who are **_Freelancers_** and also highlight the employees whose salaries are above $10,000
-![](Sheet_1)
+•	show only employees who are **_Freelancers_** 
+•	highlight the employees whose salaries are above $10,000
 
-#Applied steps:
+# Applied steps:
 
 •	Filter the Job type column using the dropdown bottom on the column and select Freelance. 
 
@@ -38,13 +38,12 @@ Conditional formatting allows us to dynamically change the appearance of cells b
 
 •	applied a red fill color to those cells. As a result, employees working as freelancers with salaries exceeding $10,000 is easily identifiable in the dataset.
 
+![](SHEET_1.png)
 
 ## Task Two:
 •	Split the employees’ full names into first names and last names,
 
 •	Also, highlight and don’t delete duplicate if any.
-
-![]{sheet2)
 
 # Applied Steps:
 
@@ -62,6 +61,8 @@ The dataset has been updated as follows:
 •	The "Firstname" and "Lastname" columns have been highlighted, and conditional formatting was applied to identify cells with duplicate values, representing employees with the same name.
 
 •	Cells with duplicated names are highlighted in a light red color.
+
+![](SHEET_2.png)
 
 These changes and formatting help organize the dataset better and visually highlight employees with duplicate names for easy identification and analysis.
 
