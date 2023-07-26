@@ -16,7 +16,7 @@ The tasks involved are:
 2.	You’re to split the employees’ full names into first names and last names. Also, Check for duplicates and highlight if any, and don’t delete
 3.	Highlight in yellow employees whose names begin with the letter **_E_** Format the Salary column such that the highest **_Salary_** has a green background and the lowest SALARY has a red background
    
-# Skill/Concepts Demonstrated
+## Skill/Concepts Demonstrated
 1.	Data Management
 2.	Data Manipulation
 3.	Text-to-column
@@ -25,15 +25,15 @@ The tasks involved are:
    
 ## Solutions To the Above Task
 
-# Task one: 
+### Task one: 
 •	show only employees who are **_Freelancers_** 
 •	highlight the employees whose salaries are above $10,000
 
-# Applied steps:
+## Applied steps:
 
-•	Filter the Job type column using the dropdown bottom on the column and select Freelance. 
+•	Filter the Job type column using the dropdown bottom on the column and select Freelance, 
 
-•	applied conditional formatting to highlight employees working as freelancers and earning above $10,000. Salaries above $10,000 are now highlighted in red.
+•	applied conditional formatting to highlight employees working as **_freelancers_** and earning above $10,000. Salaries above $10,000,
 
 Conditional formatting allows us to dynamically change the appearance of cells based on specified criteria. In this case, I used the **_greater than_** option to identify salaries above $10,000 
 
@@ -41,16 +41,16 @@ Conditional formatting allows us to dynamically change the appearance of cells b
 
 ![](SHEET_1.png)
 
-## Task Two:
+### Task Two:
 •	Split the employees’ full names into first names and last names,
 
 •	Also, highlight and don’t delete duplicate if any.
 
-# Applied Steps:
+## Applied Steps:
 
 The dataset has been updated as follows:
 
-•	The "Employee Full Name" column has been renamed to **_Firstname_**,
+•	The **_Employee Full Name_** column has been renamed to **_Firstname_**,
 
 •	 An additional column has been created immediately after the **_Firstname_** column, named **_Lastname_**,
 
@@ -71,4 +71,16 @@ The dataset has been updated as follows:
     
 
 These changes and formatting help organize the dataset better and visually highlight employees with duplicate names for easy identification and analysis.
+
+## Insights and Analysis
+
+### Task one:
+- By filtering and showing only **_Freelancers_**, we can see that there are three employees currently working as freelancers in the dataset.
+
+- The conditional formatting effectively highlighted employees with salaries above $10,000, making it easy to identify high-salaried freelancers.
+
+### Task Two:
+- The separation of **_Firstname_** and **_Lastname_** columns allows for better data management and analysis. Now we can perform further calculations or categorizations based on individual names.
+
+
 
